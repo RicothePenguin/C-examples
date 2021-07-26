@@ -4,7 +4,6 @@ int multiply(int a,int b) {
     sum = a * b;
     return sum;
 }
-
  int main() {
     int x,y;
     scanf("%d %d",&x,&y);
